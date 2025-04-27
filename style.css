@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+ }
+
+body {
+    text-align: center;
+    background-color: rgb(119, 119, 119);
+    color: black;
+  }
+
+div#authForm {
+    text-align: center;
+}
